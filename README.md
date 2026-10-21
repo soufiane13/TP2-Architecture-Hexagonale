@@ -25,7 +25,7 @@ seance2-architecture/tp2-nom1-nom2/
 ├── PlaceOrder.test.js       # Tests unitaires du Cas d'Utilisation
 └── requests.http            # Requêtes d'exemple pour l'API HTTP
 
-
+```
 🚀 Préqurequis & Lancement
 --------------------------
 
